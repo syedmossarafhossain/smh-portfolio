@@ -930,7 +930,7 @@ footer a i{
     :root{
         --big-font: 2.2rem;
         --normal-font: 1.8rem;
-        --neon-box-shadow: 0 0 .8rem #12f7ff;
+        --neon-box-shadow: 0 0 .8rem #FFC300;
         --h2-font: 3rem;
     }
     .home-content{
