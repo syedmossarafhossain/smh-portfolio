@@ -665,7 +665,6 @@ section{
     border-radius: 15px;
     overflow: hidden;
     background: #292e33;
-    display: flex;
     grid-template-rows: 1fr auto;
     align-items: center;
     border: 2px solid var(--hover-color);
