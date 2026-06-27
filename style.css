@@ -656,8 +656,8 @@ section{
 
 .portfolio-gallery{
     display: grid;
-    grid-template-columns: repeat(auto-fill , minmax(270px , 1fr));
-    gap: 3rem;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
 }
 
 .port-box{
